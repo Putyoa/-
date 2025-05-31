@@ -1,0 +1,13 @@
+{
+  "skins": [
+    {
+      "localization_name": "testskin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin1.png",
+      "cape": "cape1.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "a",
+  "localization_name": "b"
+}

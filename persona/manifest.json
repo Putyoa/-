@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "description": "capeskinpack",
+    "name": "capepack",
+    "uuid": "bd13a104-afb1-71b8-2069-f4be876cfadd"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "5edcec9c-b172-6217-4929-f37cd6495fa9"
+    }
+  ],
+  "format_version": 1
+}
