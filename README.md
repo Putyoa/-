@@ -10,7 +10,7 @@ _マントの向き_
 4.CTRL+Sで画像を保存  
 5.skins.jsonをメモ帳などのテキストエディターで開く  
 6.`"localization_name": "XXX"` XXXの部分にskinの名前を自由に入力  
-7.`"geometry": "geometry.humanoid.customXXX"` XXXの部分に、スリムスキンが良かったらSlimと入力、スリムじゃない場合はなにも入力せずgeometry.humanoid.customのままでok  
+7.`"geometry": "geometry.humanoid.customXXX"` XXXの部分に、スリムスキンが良かったらSlimと入力、スリムじゃない場合はなにも入力せず`geometry.humanoid.custom`のままでok  
 8.`"texture": "XXX"` XXXの部分にスキンの画像の名前を、拡張子も含めて入力する　拡張子は.png  
 9.`"cape": "XXX"` XXXの部分にマントの画像の名前を、拡張子も含めて入力する　基本はcape1.pngのままでok  
 10.CTRL+Sでskins.jsonを保存  
