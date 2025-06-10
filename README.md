@@ -6,7 +6,7 @@ https://youtu.be/g0z5JEMXPn4
 2.その画像ファイルが.pngになってることを確認する(なってなかったら.pngにしましょう)  
 3.ペイントソフトを開いて、cape1.pngを編集する  
 _マントの向き_  
-![{17B46B7A-8950-4015-8AA7-FF918A34ADE7}](https://github.com/user-attachments/assets/d6706d07-c4d3-4fae-b967-11fb1dd7960f)  
+ <img src="{[画像URL](https://github.com/user-attachments/assets/d6706d07-c4d3-4fae-b967-11fb1dd7960f)}" width="50%" />
 4.CTRL+Sで画像を保存  
 5.skins.jsonをメモ帳などのテキストエディターで開く  
 6.`"localization_name": "XXX"` XXXの部分にskinの名前を自由に入力  
